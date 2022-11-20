@@ -8,8 +8,8 @@ This application is a simple calendar planning application. You will see today's
 
 ##Technologies
 
--HTML
--CSS
--Bootstrap
--jQuery
--Moment.js
+- HTML
+- CSS
+- Bootstrap
+- jQuery
+- Moment.js
