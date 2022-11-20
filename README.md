@@ -7,6 +7,7 @@ This application is a simple calendar planning application. You will see today's
 ![image](https://user-images.githubusercontent.com/103705511/202933436-bb2e32f6-6f17-4410-b65a-90667443f771.png)
 
 ##Technologies
+
 -HTML
 -CSS
 -Bootstrap
